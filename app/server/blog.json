@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "slug": "10-tips-react-performance",
+      "title": "۱۰ تکنیک طلایی برای بهینه‌سازی عملکرد React",
+      "excerpt": "آیا اپلیکیشن React شما کند شده؟ در این مقاله ۱۰ روش کاربردی برای افزایش سرعت و بهبود تجربه کاربری را یاد بگیرید.",
+      "content": "<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد...</p><h2>۱. استفاده از React.memo</h2><p>توضیحات کامل...</p><h2>۲. استفاده از useCallback و useMemo</h2><p>توضیحات...</p>",
+      "image": "/images/blog/react-performance.jpg",
+      "author": "دکتر سارا حسینی",
+      "authorAvatar": "/images/avatars/sara.jpg",
+      "date": "۱۴۰۳/۰۲/۱۵",
+      "readTime": 8,
+      "category": "برنامه‌نویسی",
+      "tags": ["React", "JavaScript", "Performance"],
+      "views": 1240
+    },
+    {
+      "id": 2,
+      "slug": "introduction-to-ai-2025",
+      "title": "هوش مصنوعی در سال ۲۰۲۵: چه تغییراتی در انتظار ماست؟",
+      "excerpt": "با پیشرفت سریع هوش مصنوعی، آینده شغلی و فناوری چگونه خواهد بود؟ این مقاله را از دست ندهید.",
+      "content": "<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ...</p>",
+      "image": "/images/blog/ai-future.jpg",
+      "author": "مهندس علی محمدی",
+      "authorAvatar": "/images/avatars/ali.jpg",
+      "date": "۱۴۰۳/۰۲/۱۰",
+      "readTime": 6,
+      "category": "هوش مصنوعی",
+      "tags": ["AI", "Machine Learning", "Future"],
+      "views": 890
+    },
+    {
+      "id": 3,
+      "slug": "uiux-trends-2025",
+      "title": "ترندهای داغ طراحی UI/UX در سال ۲۰۲۵",
+      "excerpt": "از نئومورفیسم تا میکرواینتراکشن‌ها، با جدیدترین ترندهای طراحی آشنا شوید.",
+      "content": "<p>لورم ایپسوم متن ساختگی...</p>",
+      "image": "/images/blog/uiux-trends.jpg",
+      "author": "مریم کریمی",
+      "authorAvatar": "/images/avatars/maryam.jpg",
+      "date": "۱۴۰۳/۰۲/۰۵",
+      "readTime": 5,
+      "category": "طراحی",
+      "tags": ["UI", "UX", "Design Trends"],
+      "views": 2100
+    },
+    {
+      "id": 4,
+      "slug": "digital-marketing-strategy-2025",
+      "title": "استراتژی بازاریابی دیجیتال در سال ۲۰۲۵",
+      "excerpt": "چگونه با استفاده از ابزارهای مدرن، فروش خود را چندین برابر کنید؟",
+      "content": "<p>لورم ایپسوم متن ساختگی...</p>",
+      "image": "/images/blog/marketing-strategy.jpg",
+      "author": "رضا نوری",
+      "authorAvatar": "/images/avatars/reza.jpg",
+      "date": "۱۴۰۳/۰۱/۲۸",
+      "readTime": 7,
+      "category": "بازاریابی",
+      "tags": ["Marketing", "SEO", "Social Media"],
+      "views": 1560
+    },
+    {
+      "id": 5,
+      "slug": "tailwind-css-v4-features",
+      "title": "معرفی قابلیت‌های جدید Tailwind CSS نسخه ۴",
+      "excerpt": "با امکانات شگفت‌انگیز Tailwind 4 آشنا شوید و طراحی وب را متحول کنید.",
+      "content": "<p>لورم ایپسوم متن ساختگی...</p>",
+      "image": "/images/blog/tailwind4.jpg",
+      "author": "دکتر سارا حسینی",
+      "authorAvatar": "/images/avatars/sara.jpg",
+      "date": "۱۴۰۳/۰۱/۲۰",
+      "readTime": 4,
+      "category": "برنامه‌نویسی",
+      "tags": ["CSS", "Tailwind", "Frontend"],
+      "views": 980
+    }
+  ]
+}

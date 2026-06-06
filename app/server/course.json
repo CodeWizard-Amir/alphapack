@@ -1,0 +1,308 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "دوره جامع React و Next.js",
+      "slug": "react-nextjs-complete",
+      "category": "programming",
+      "level": "advanced",
+      "image": "/images/courses/react-nextjs.jpg",
+      "videoPreview": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "instructor": "دکتر سارا حسینی",
+      "instructorBio": "دکتری مهندسی کامپیوتر از دانشگاه تهران، ۱۵ سال سابقه تدریس در دانشگاه و صنعت، همکار سابق مایکروسافت، نویسنده ۵ کتاب تخصصی برنامه‌نویسی",
+      "duration": "۴۲ ساعت",
+      "lectures": 86,
+      "students": 3240,
+      "price": 2450000,
+      "oldPrice": 3500000,
+      "rating": 4.9,
+      "reviews": 1203,
+      "badge": "پرفروش‌ترین",
+      "description": "دوره جامع React و Next.js یکی از کامل‌ترین دوره‌های آموزشی فرانت‌اند پیشرفته در ایران است. در این دوره شما از صفر تا صد ساخت یک وب‌سایت مدرن و حرفه‌ای را با جدیدترین تکنولوژی‌های روز دنیا یاد خواهید گرفت. ما در این دوره ابتدا مفاهیم پایه React مانند کامپوننت‌ها، props، state، hooks و context API را به صورت عمیق و پروژه‌محور آموزش می‌دهیم. سپس وارد دنیای Next.js 14 می‌شویم و با مفاهیم پیشرفته‌ای مانند App Router، Server Components، Client Components، Static Site Generation (SSG)، Server Side Rendering (SSR)، Incremental Static Regeneration (ISR) و API Routes آشنا می‌شوید. در بخش پروژه عملی، یک فروشگاه آنلاین کامل با قابلیت‌های احراز هویت، سبد خرید، پرداخت آنلاین، پنل ادمین و دشبورد کاربری خواهیم ساخت. همچنین با ابزارهای جانبی مانند Tailwind CSS برای استایل‌دهی، Prisma برای ORM، NextAuth برای احراز هویت، و MongoDB به عنوان دیتابیس کار خواهیم کرد. در پایان دوره، شما قادر خواهید بود هر نوع وب‌سایت پیچیده‌ای را با React و Next.js پیاده‌سازی کنید و برای موقعیت‌های شغلی ارشد فرانت‌اند آماده شوید. این دوره به همراه گواهی معتبر، پشتیبانی ۲۴ ساعته و آپدیت مادام‌العمر ارائه می‌شود.",
+      "chapters": [
+        {
+          "title": "مقدمه و مبانی React",
+          "duration": "۸ ساعت",
+          "lessons": [
+            { "title": "معرفی دوره و نصب ابزارها", "duration": "۲۵ دقیقه", "isPreview": true, "videoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4" },
+            { "title": "آشنایی با JSX و کامپوننت‌ها", "duration": "۴۵ دقیقه", "isPreview": false },
+            { "title": "Props و PropTypes", "duration": "۳۰ دقیقه", "isPreview": false },
+            { "title": "State و setState", "duration": "۴۰ دقیقه", "isPreview": false },
+            { "title": "رویدادها در React", "duration": "۲۵ دقیقه", "isPreview": false },
+            { "title": "شرطی‌سازی و لیست‌ها", "duration": "۳۵ دقیقه", "isPreview": false },
+            { "title": "فرم‌ها و کنترل شده", "duration": "۵۰ دقیقه", "isPreview": false }
+          ]
+        },
+        {
+          "title": "React Hooks پیشرفته",
+          "duration": "۱۰ ساعت",
+          "lessons": [
+            { "title": "useState عمیق", "duration": "۴۵ دقیقه", "isPreview": true, "videoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4" },
+            { "title": "useEffect و چرخه حیات", "duration": "۶۰ دقیقه", "isPreview": false },
+            { "title": "useContext و Context API", "duration": "۵۰ دقیقه", "isPreview": false },
+            { "title": "useReducer", "duration": "۵۵ دقیقه", "isPreview": false },
+            { "title": "useCallback و useMemo", "duration": "۴۰ دقیقه", "isPreview": false },
+            { "title": "useRef و DOM", "duration": "۳۰ دقیقه", "isPreview": false },
+            { "title": "ساخت Custom Hooks", "duration": "۶۰ دقیقه", "isPreview": false },
+            { "title": "React.memo و بهینه‌سازی", "duration": "۴۵ دقیقه", "isPreview": false }
+          ]
+        },
+        {
+          "title": "Next.js 14 App Router",
+          "duration": "۱۲ ساعت",
+          "lessons": [
+            { "title": "معرفی Next.js و نصب", "duration": "۳۰ دقیقه", "isPreview": true, "videoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4" },
+            { "title": "App Router vs Pages Router", "duration": "۴۵ دقیقه", "isPreview": false },
+            { "title": "Layouts و Nested Layouts", "duration": "۵۰ دقیقه", "isPreview": false },
+            { "title": "Server vs Client Components", "duration": "۶۰ دقیقه", "isPreview": false },
+            { "title": "Data Fetching", "duration": "۷۰ دقیقه", "isPreview": false },
+            { "title": "Static و Dynamic Routes", "duration": "۵۵ دقیقه", "isPreview": false },
+            { "title": "API Routes", "duration": "۶۰ دقیقه", "isPreview": false },
+            { "title": "Middleware", "duration": "۵۰ دقیقه", "isPreview": false }
+          ]
+        },
+        {
+          "title": "پروژه عملی",
+          "duration": "۱۲ ساعت",
+          "lessons": [
+            { "title": "راه‌اندازی پروژه", "duration": "۴۰ دقیقه", "isPreview": false },
+            { "title": "طراحی کامپوننت‌ها", "duration": "۶۰ دقیقه", "isPreview": false },
+            { "title": "مدیریت سبد خرید", "duration": "۵۵ دقیقه", "isPreview": false },
+            { "title": "اتصال به MongoDB", "duration": "۷۰ دقیقه", "isPreview": false },
+            { "title": "احراز هویت", "duration": "۸۰ دقیقه", "isPreview": false },
+            { "title": "پنل ادمین", "duration": "۹۰ دقیقه", "isPreview": false },
+            { "title": "درگاه پرداخت", "duration": "۶۰ دقیقه", "isPreview": false },
+            { "title": "دپلوی روی Vercel", "duration": "۳۰ دقیقه", "isPreview": false }
+          ]
+        }
+      ],
+      "requirements": ["آشنایی مقدماتی با JavaScript", "HTML و CSS پایه", "آشنایی با ES6+", "نصب Node.js روی سیستم"],
+      "targetAudience": ["برنامه‌نویسان فرانت‌اند", "توسعه‌دهندگان React", "دانشجویان علوم کامپیوتر", "علاقه‌مندان به Next.js"]
+    },
+    {
+      "id": 2,
+      "title": "دوره جامع امنیت سایبری و تست نفوذ",
+      "slug": "ethical-hacking-complete",
+      "category": "security",
+      "level": "advanced",
+      "image": "/images/courses/ethical-hacking.jpg",
+      "videoPreview": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "instructor": "مهندس امیر رضایی",
+      "instructorBio": "کارشناس ارشد امنیت اطلاعات، دارنده گواهینامه‌های CEH، OSCP و CISSP، ۱۲ سال تجربه در تیم‌های امنیتی شرکت‌های بزرگ",
+      "duration": "۶۰ ساعت",
+      "lectures": 120,
+      "students": 2870,
+      "price": 3950000,
+      "oldPrice": 5200000,
+      "rating": 4.9,
+      "reviews": 932,
+      "badge": "محبوب‌ترین",
+      "description": "این دوره جامع امنیت سایبری و تست نفوذ یکی از کامل‌ترین آموزش‌های موجود برای ورود حرفه‌ای به دنیای Cyber Security محسوب می‌شود. دانشجویان در این دوره ابتدا با مفاهیم پایه امنیت اطلاعات، مدل‌های تهدید، انواع حملات سایبری و روش‌های دفاع در برابر آن‌ها آشنا می‌شوند. سپس به سراغ ابزارهای تخصصی مانند Kali Linux، Nmap، Wireshark، Burp Suite، Metasploit و SQLMap خواهیم رفت. در بخش تست نفوذ وب، تمامی آسیب‌پذیری‌های OWASP Top 10 به صورت عملی بررسی می‌شوند و نحوه شناسایی و بهره‌برداری از آن‌ها آموزش داده می‌شود. همچنین در بخش امنیت شبکه، تکنیک‌های Sniffing، MITM، Enumeration و Privilege Escalation به شکل پروژه محور تدریس می‌گردد. دانشجویان در طول دوره چندین سناریوی واقعی شبیه‌سازی شده را پیاده‌سازی می‌کنند و نحوه تهیه گزارش تست نفوذ استاندارد را یاد می‌گیرند. در انتهای دوره نیز آمادگی مناسبی برای آزمون‌های CEH و eJPT به دست خواهند آورد. این دوره شامل تمرین‌های عملی، لابراتوار اختصاصی، پشتیبانی تخصصی و آپدیت مادام‌العمر است. مباحث پیشرفته‌تری مانند رمزنگاری، امنیت ابری، تحلیل بدافزار و جنایت سایبری نیز در این دوره پوشش داده می‌شود تا دانشجویان بتوانند در هر زمینه‌ای از امنیت اطلاعات تخصص پیدا کنند.",
+      "chapters": [
+        {
+          "title": "مبانی امنیت و Reconnaissance",
+          "duration": "۱۵ ساعت",
+          "lessons": [
+            { "title": "مفاهیم پایه امنیت", "duration": "۵۰ دقیقه", "isPreview": true, "videoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4" },
+            { "title": "OSINT و جمع‌آوری اطلاعات", "duration": "۶۰ دقیقه", "isPreview": false },
+            { "title": "اسکن شبکه با Nmap", "duration": "۵۵ دقیقه", "isPreview": false },
+            { "title": "Shodan و مالتی‌پلکس", "duration": "۴۵ دقیقه", "isPreview": false }
+          ]
+        },
+        {
+          "title": "Web Application Security",
+          "duration": "۲۰ ساعت",
+          "lessons": [
+            { "title": "OWASP Top 10", "duration": "۶۰ دقیقه", "isPreview": true, "videoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4" },
+            { "title": "SQL Injection", "duration": "۷۰ دقیقه", "isPreview": false },
+            { "title": "XSS و CSRF", "duration": "۶۰ دقیقه", "isPreview": false },
+            { "title": "Burp Suite حرفه‌ای", "duration": "۵۵ دقیقه", "isPreview": false }
+          ]
+        },
+        {
+          "title": "Exploitation و Post Exploitation",
+          "duration": "۲۵ ساعت",
+          "lessons": [
+            { "title": "Metasploit Framework", "duration": "۸۰ دقیقه", "isPreview": false },
+            { "title": "Privilege Escalation لینوکس", "duration": "۷۰ دقیقه", "isPreview": false },
+            { "title": "Privilege Escalation ویندوز", "duration": "۷۰ دقیقه", "isPreview": false },
+            { "title": "گزارش‌نویسی حرفه‌ای", "duration": "۵۰ دقیقه", "isPreview": false }
+          ]
+        }
+      ],
+      "requirements": ["آشنایی با لینوکس", "مفاهیم پایه شبکه", "آشنایی با Python", "ماشین مجازی حداقل ۸ گیگ رم"],
+      "targetAudience": ["متخصصان امنیت", "تسترهای نفوذ", "مدیران شبکه", "علاقه‌مندان به هک اخلاقی"]
+    },
+    {
+      "id": 3,
+      "title": "دوره جامع شبکه و CCNA 200-301",
+      "slug": "ccna-network-complete",
+      "category": "network",
+      "level": "intermediate",
+      "image": "/images/courses/ccna.jpg",
+      "videoPreview": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "instructor": "دکتر محمد کرمی",
+      "instructorBio": "دکتری مهندسی شبکه، مدرس رسمی Cisco، ۲۰ سال سابقه تدریس و مشاوره در پروژه‌های بزرگ ملی",
+      "duration": "۵۵ ساعت",
+      "lectures": 110,
+      "students": 4510,
+      "price": 3250000,
+      "oldPrice": 4500000,
+      "rating": 4.8,
+      "reviews": 1184,
+      "badge": "پرطرفدار",
+      "description": "این دوره جامع شبکه با هدف آماده‌سازی دانشجویان برای ورود به بازار کار شبکه و کسب مدرک بین‌المللی CCNA طراحی شده است. آموزش از مفاهیم پایه شبکه شامل مدل OSI، TCP/IP، آدرس‌دهی IPv4 و IPv6، Subnetting و Routing آغاز می‌شود. سپس دانشجویان با تجهیزات Cisco، پیکربندی Switch و Router، VLAN، STP، EtherChannel، OSPF، ACL و NAT آشنا می‌شوند. تمامی سناریوها در نرم‌افزار Cisco Packet Tracer و GNS3 به صورت عملی پیاده‌سازی خواهند شد. همچنین مفاهیم امنیت شبکه، Wireless، Automation و SDN که در نسخه جدید آزمون CCNA اهمیت زیادی دارند به طور کامل پوشش داده می‌شوند. در طول دوره چندین پروژه واقعی سازمانی اجرا شده و دانشجویان تجربه طراحی و پیاده‌سازی شبکه‌های متوسط و بزرگ را به دست می‌آورند. پس از پایان آموزش، شرکت‌کنندگان آمادگی لازم برای شرکت در آزمون رسمی Cisco CCNA و ورود به موقعیت‌های شغلی کارشناس شبکه را خواهند داشت. این دوره همچنین شامل شبیه‌سازی لابراتوارهای واقعی، تمرین‌های عملی متعدد و جزوات اختصاصی به زبان ساده و روان است که مسیر یادگیری را برای همه دانشجویان هموار می‌سازد.",
+      "chapters": [
+        {
+          "title": "مبانی شبکه و آدرس‌دهی",
+          "duration": "۱۲ ساعت",
+          "lessons": [
+            { "title": "مدل OSI و TCP/IP", "duration": "۴۵ دقیقه", "isPreview": true, "videoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4" },
+            { "title": "IPv4 و Subnetting", "duration": "۷۰ دقیقه", "isPreview": false },
+            { "title": "IPv6 کامل", "duration": "۵۵ دقیقه", "isPreview": false },
+            { "title": "VLSM و Route Summarization", "duration": "۶۰ دقیقه", "isPreview": false }
+          ]
+        },
+        {
+          "title": "Routing و Switching",
+          "duration": "۲۵ ساعت",
+          "lessons": [
+            { "title": "Cisco IOS", "duration": "۵۰ دقیقه", "isPreview": true, "videoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4" },
+            { "title": "VLAN و Trunk", "duration": "۶۰ دقیقه", "isPreview": false },
+            { "title": "STP و EtherChannel", "duration": "۵۵ دقیقه", "isPreview": false },
+            { "title": "OSPF", "duration": "۷۰ دقیقه", "isPreview": false },
+            { "title": "ACL و NAT", "duration": "۶۵ دقیقه", "isPreview": false }
+          ]
+        },
+        {
+          "title": "امنیت و Wireless",
+          "duration": "۱۸ ساعت",
+          "lessons": [
+            { "title": "امنیت شبکه", "duration": "۵۰ دقیقه", "isPreview": false },
+            { "title": "Wireless LAN", "duration": "۵۵ دقیقه", "isPreview": false },
+            { "title": "SDN و Automation", "duration": "۶۰ دقیقه", "isPreview": false },
+            { "title": "شبیه‌سازی پروژه‌های واقعی", "duration": "۹۰ دقیقه", "isPreview": false }
+          ]
+        }
+      ],
+      "requirements": ["آشنایی با مفاهیم کامپیوتر", "علاقه به شبکه‌های کامپیوتری", "لپ‌تاپ با ۸ گیگ رم"],
+      "targetAudience": ["کارشناسان شبکه", "تکنسین‌های IT", "دانشجویان کامپیوتر", "علاقه‌مندان به دریافت مدرک CCNA"]
+    },
+    {
+      "id": 4,
+      "title": "دوره جامع MikroTik از صفر تا متخصص",
+      "slug": "mikrotik-masterclass",
+      "category": "network",
+      "level": "intermediate",
+      "image": "/images/courses/mikrotik.jpg",
+      "videoPreview": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "instructor": "مهندس علیرضا صالحی",
+      "instructorBio": "مهندس شبکه، متخصص ارشد MikroTik، مدرس رسمی MTCNA، ۱۴ سال تجربه در پروژه‌های ISP و دیتاسنتر",
+      "duration": "۴۸ ساعت",
+      "lectures": 95,
+      "students": 3890,
+      "price": 2750000,
+      "oldPrice": 3900000,
+      "rating": 4.8,
+      "reviews": 964,
+      "badge": "ویژه بازار کار",
+      "description": "در این دوره جامع، تمامی مباحث MikroTik RouterOS از سطح مقدماتی تا حرفه‌ای آموزش داده می‌شود. دانشجویان با نصب و راه‌اندازی RouterOS، مدیریت کاربران، Firewall، NAT، Queue، VPN، Hotspot، Load Balancing، Failover و مانیتورینگ آشنا می‌شوند. تمامی سناریوها بر اساس پروژه‌های واقعی شرکت‌ها و ISPها طراحی شده‌اند و در پایان دوره قادر خواهید بود شبکه‌های پیچیده را با تجهیزات MikroTik مدیریت و پیاده‌سازی کنید. همچنین نکات مهم آزمون‌های MTCNA و MTCRE نیز پوشش داده خواهد شد. این دوره برای مدیران شبکه، کارشناسان IT و علاقه‌مندان به بازار کار شبکه بسیار ارزشمند است. در بخش پیشرفته، مفاهیم OSPF، BGP، VRRP، Bonding، User Manager و API نیز آموزش داده می‌شود تا دانشجویان توانایی مدیریت هر نوع شبکه‌ای را کسب کنند. پروژه نهایی شامل طراحی یک ISP کامل با مدیریت پهنای باند، احراز هویت کاربران و مانیتورینگ ترافیک است.",
+      "chapters": [
+        {
+          "title": "مبانی MikroTik",
+          "duration": "۱۲ ساعت",
+          "lessons": [
+            { "title": "نصب و راه‌اندازی", "duration": "۴۰ دقیقه", "isPreview": true, "videoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4" },
+            { "title": "آشنایی با WinBox و CLI", "duration": "۵۰ دقیقه", "isPreview": false },
+            { "title": "مدیریت کاربران", "duration": "۴۵ دقیقه", "isPreview": false },
+            { "title": "Bridge و VLAN", "duration": "۶۰ دقیقه", "isPreview": false }
+          ]
+        },
+        {
+          "title": "Firewall و مدیریت ترافیک",
+          "duration": "۱۸ ساعت",
+          "lessons": [
+            { "title": "Firewall Rules", "duration": "۶۰ دقیقه", "isPreview": true, "videoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4" },
+            { "title": "NAT و Routing", "duration": "۵۵ دقیقه", "isPreview": false },
+            { "title": "Queue و Bandwidth Management", "duration": "۷۰ دقیقه", "isPreview": false },
+            { "title": "Hotspot و User Manager", "duration": "۶۵ دقیقه", "isPreview": false }
+          ]
+        },
+        {
+          "title": "پیشرفته و پروژه نهایی",
+          "duration": "۱۸ ساعت",
+          "lessons": [
+            { "title": "VPN و Tunnel", "duration": "۶۰ دقیقه", "isPreview": false },
+            { "title": "OSPF و BGP", "duration": "۷۰ دقیقه", "isPreview": false },
+            { "title": "Load Balancing و Failover", "duration": "۶۵ دقیقه", "isPreview": false },
+            { "title": "پروژه ISP کامل", "duration": "۱۲۰ دقیقه", "isPreview": false }
+          ]
+        }
+      ],
+      "requirements": ["آشنایی مقدماتی با شبکه", "نصب نرم‌افزار GNS3 یا EVE-NG", "لپ‌تاپ با ۸ گیگ رم"],
+      "targetAudience": ["مدیران شبکه", "تکنسین‌های ISP", "متخصصان IT", "علاقه‌مندان به MikroTik"]
+    },
+    {
+      "id": 5,
+      "title": "دوره تخصصی نصب و راه‌اندازی دوربین مداربسته",
+      "slug": "cctv-installation-complete",
+      "category": "surveillance",
+      "level": "beginner",
+      "image": "/images/courses/cctv.jpg",
+      "videoPreview": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "instructor": "مهندس رضا نادری",
+      "instructorBio": "کارشناس ارشد الکترونیک، ۱۶ سال تجربه در اجرای پروژه‌های نظارت تصویری، مشاور فنی برندهای معتبر",
+      "duration": "۳۵ ساعت",
+      "lectures": 72,
+      "students": 2760,
+      "price": 1850000,
+      "oldPrice": 2700000,
+      "rating": 4.9,
+      "reviews": 713,
+      "badge": "بازار کار فوری",
+      "description": "این دوره جامع با هدف آموزش کامل نصب، راه‌اندازی و نگهداری سیستم‌های نظارت تصویری طراحی شده است. دانشجویان ابتدا با انواع دوربین‌های آنالوگ، HD و IP آشنا می‌شوند و سپس نحوه انتخاب تجهیزات مناسب برای پروژه‌های مسکونی، تجاری و صنعتی را یاد می‌گیرند. در ادامه مباحث کابل‌کشی، سوکت‌زنی، تنظیم DVR و NVR، پیکربندی شبکه، انتقال تصویر روی موبایل، ذخیره‌سازی تصاویر و عیب‌یابی تخصصی آموزش داده می‌شود. همچنین اصول طراحی پروژه، برآورد هزینه، نقشه‌خوانی و اجرای پروژه‌های واقعی به صورت کامل بررسی خواهد شد. پس از پایان دوره شرکت‌کنندگان می‌توانند به صورت مستقل پروژه‌های دوربین مداربسته را اجرا کرده و وارد بازار کار شوند. این دوره شامل آموزش عملی با تجهیزات واقعی، نرم‌افزارهای مدیریت تصویر و تکنیک‌های عیب‌یابی پیشرفته است که شما را به یک متخصص حرفه‌ای تبدیل می‌کند.",
+      "chapters": [
+        {
+          "title": "آشنایی با تجهیزات",
+          "duration": "۱۰ ساعت",
+          "lessons": [
+            { "title": "انواع دوربین‌ها", "duration": "۴۵ دقیقه", "isPreview": true, "videoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4" },
+            { "title": "DVR و NVR", "duration": "۵۰ دقیقه", "isPreview": false },
+            { "title": "کابل‌ها و کانکتورها", "duration": "۴۰ دقیقه", "isPreview": false }
+          ]
+        },
+        {
+          "title": "نصب و پیکربندی",
+          "duration": "۱۵ ساعت",
+          "lessons": [
+            { "title": "کابل‌کشی و نصب", "duration": "۶۰ دقیقه", "isPreview": true, "videoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4" },
+            { "title": "تنظیمات DVR/NVR", "duration": "۵۵ دقیقه", "isPreview": false },
+            { "title": "دسترسی از راه دور", "duration": "۵۰ دقیقه", "isPreview": false }
+          ]
+        },
+        {
+          "title": "پروژه عملی",
+          "duration": "۱۰ ساعت",
+          "lessons": [
+            { "title": "طراحی پروژه", "duration": "۴۵ دقیقه", "isPreview": false },
+            { "title": "اجرای کامل", "duration": "۹۰ دقیقه", "isPreview": false },
+            { "title": "عیب‌یابی تخصصی", "duration": "۶۰ دقیقه", "isPreview": false }
+          ]
+        }
+      ],
+      "requirements": ["علاقه به کارهای فنی", "ابزارهای دستی ساده", "لپ‌تاپ معمولی"],
+      "targetAudience": ["نصابان دوربین", "تکنسین‌های IT", "صاحبان کسب‌وکار امنیتی", "جویندگان کار فنی"]
+    }
+  ],
+  "categories": [
+    { "id": "all", "name": "همه دوره‌ها", "icon": "FaThLarge" },
+    { "id": "programming", "name": "برنامه‌نویسی", "icon": "FaCode" },
+    { "id": "ai", "name": "هوش مصنوعی", "icon": "FaBrain" },
+    { "id": "design", "name": "طراحی", "icon": "FaPaintBrush" },
+    { "id": "marketing", "name": "بازاریابی", "icon": "FaChartLine" },
+    { "id": "security", "name": "امنیت", "icon": "FaShieldAlt" },
+    { "id": "network", "name": "شبکه", "icon": "FaNetworkWired" },
+    { "id": "surveillance", "name": "نظارت تصویری", "icon": "FaVideo" },
+    { "id": "linux", "name": "لینوکس", "icon": "FaLinux" }
+  ]
+}
